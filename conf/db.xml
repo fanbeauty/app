@@ -1,0 +1,6 @@
+<mysql>
+    <host>47.94.19.205</host>
+    <db>Totoro</db>
+    <passwd>huanhuan0921</passwd>
+    <port>3306</port>
+</mysql>

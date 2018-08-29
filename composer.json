@@ -1,0 +1,23 @@
+{
+    "name": "Totoro",
+    "description": "tengyue framework",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "pathinfo",
+        "ORM"
+    ],
+    "require": {
+        "elasticsearch/elasticsearch":"2.2.1@stable",
+        "monolog/monolog": "1.21@stable"
+    },
+    "repositories": {
+        "packagist":{
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
